@@ -53,12 +53,14 @@ li{
 .one{
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
 }
 .one-one{
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    flex-wrap: wrap;
 }
 .random-header{
     text-align: center;
